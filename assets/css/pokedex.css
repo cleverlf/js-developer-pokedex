@@ -145,6 +145,15 @@
     border: none;
     border-radius: 1rem;
 }
+.detalhes-pokemon{
+    
+    cursor: pointer;
+    border: solid transparent;
+    background-color: transparent; 
+    color: black;
+    font-size: 1.5em;
+    
+}
 
 @media screen and (min-width: 380px) {
     .pokemons {
